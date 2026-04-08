@@ -34,7 +34,14 @@ attendance-system-iot/
 ## 📷 Output
 
 ### 🔹 Web Interface
-![UI](images/ui.png)
+![UI](ui.png)
 
 ### 🔹 Attendance Record
 ![Attendance](images/attendance.png)
+
+---
+
+## 👨‍💻 Author
+**Dev Tripathi**  
+🔗 GitHub: https://github.com/tripathi2603  
+📧 Email:devtripathi2303@gmail.com  
