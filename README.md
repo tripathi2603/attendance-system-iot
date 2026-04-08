@@ -33,8 +33,8 @@ attendance-system-iot/
 
 ## 📷 Output
 
-### 🔹 Web Interface
-![UI](ui.png)
+![UI](images/ui.png)
+![Attendance](images/attendance.png)
 
 ### 🔹 Attendance Record
 ![Attendance](images/attendance.png)
